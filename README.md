@@ -30,4 +30,7 @@
         </head>
         <body>
           <ol><li><a href="https://github.com/NIVETHASUBRAMANIAN/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/Amazon%20order%20Analysis">Amazon Order Analysis</a></li>
+            <li><a href="https://github.com/NIVETHASUBRAMANIAN/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/Covid%20Analysis">Covid Analysis</a></li>
+            <li><a href="https://github.com/NIVETHASUBRAMANIAN/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/Heart%20Disease%20Analysis">Heart Disease Analysis</a></li>
+            <li><a href="https://github.com/NIVETHASUBRAMANIAN/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/IPL%20Analysis">IPL Analysis</a></li>
           </html>
