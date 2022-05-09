@@ -26,8 +26,8 @@
         <head>
           <h2>Contents</h2>
           <h3>Projects</h3>
+          <h4>Exploratory data analysis in python</h4>
         </head>
         <body>
-          <ol><li><a href="https://github.com/NIVETHASUBRAMANIAN/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20Python">Exploratory data analysis in Python </a></li>
-            <li><a href="https://github.com/NIVETHASUBRAMANIAN/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20R">Exploratory data analysis in R</a></li>
-        </html>
+          <ol><li><a href="https://github.com/NIVETHASUBRAMANIAN/edubridge-data-analytics/tree/main/Projects/Exploratory%20Data%20Analysis%20in%20Python/Amazon%20order%20Analysis">Amazon Order Analysis</a></li>
+          </html>
